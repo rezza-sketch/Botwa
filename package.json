@@ -1,0 +1,10 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "latest"
+  }
+}
